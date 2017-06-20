@@ -1,3 +1,2 @@
 # hello-world
-My first repository
-I like apples
+I really like apples
